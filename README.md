@@ -1,2 +1,2 @@
-https://github.com/lidia-veli/warm-up/edit/main
+https://github.com/lidia-veli/warm-up
 # warm-up
